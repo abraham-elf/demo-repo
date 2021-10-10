@@ -1,3 +1,3 @@
 # Hello World
 
-my first git Repositary
+My first git Repositary
